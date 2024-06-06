@@ -1,5 +1,7 @@
 public class Principal {
     public static void main(String[] args) {
-        // TODO: Tu código va aquí
+      Vehiculo vehiculo = new Vehiculo ("Toyota", "Corolla", "2020");
+      
     }
 }
+    
