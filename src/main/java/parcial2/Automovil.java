@@ -32,7 +32,7 @@ public class Automovil extends Vehiculo {
     public String setModelo(String Corolla) {
         return modelo;      
     }
-    public int setAño(String 2020) {
+    public int setAño(int año) {
         return año; 
     }
 }
